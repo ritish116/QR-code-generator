@@ -1,1 +1,1 @@
-# Student Budget Calculator
+# Student Budget Calculater
