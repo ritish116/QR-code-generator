@@ -1,1 +1,1 @@
-# QR-code-generator
+# Student Budget Calculator
